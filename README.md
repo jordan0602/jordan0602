@@ -1,16 +1,24 @@
-### Hi there 👋
+Bonjour à tous et merci de venir lire ce Readme.
 
-<!--
-**jordan0602/jordan0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appel Jordan Lefrançois, aussi connu sous le pseudo "Shijo". J'ai actuellement 26 ans mais n'ai plus toute mes dents.
+Ancien employé polyvalent dans le commerce je suis actuellement en reconversion professionnel au sein de l'institut Marie Thérèse Solacroup (IMTS)
+afin de devenir developpeur Front-End.
 
-Here are some ideas to get you started:
+Que contient ma formation ? : -SQL
+                              -UX/UI
+                              -Javascript - Javascript ++
+                              -HTML - CSS -DOM
+                              -CCP - Front End 
+                              
+                              
+Quel sont les langages déjà vu ? : -C
+                                   -Python
+                                   
+Quelles sont mes qualitées ? : -Curieux
+                               -Empathique
+                               -Positif
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Quelles sont mes passions ? : -Voyager :world_map:
+                              -Cinema :tv:
+                              -Jeux Vidéos :video_game:
+                              -Football (Le Stade Rennais qui est l'amour d'une vie) :soccer:
