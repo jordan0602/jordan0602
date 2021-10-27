@@ -1,6 +1,6 @@
 Bonjour à tous et merci de venir lire ce Readme.
 
-Je m'appel Jordan Lefrançois, aussi connu sous le pseudo "Shijo". J'ai actuellement 26 ans mais n'ai plus toute mes dents.
+Je m'appel Jordan Lefrançois, aussi connu sous le pseudo "Shijo". J'ai actuellement 26 ans.
 Ancien employé polyvalent dans le commerce je suis actuellement en reconversion professionnel au sein de l'institut Marie Thérèse Solacroup (IMTS)
 afin de devenir developpeur Front-End.
 
